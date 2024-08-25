@@ -18,7 +18,7 @@ Para executar a aplicação, siga os passos abaixo:
 3. Compile o TypeScript:
    npx tsc
 
-   4. Abra o arquivo `index.html` em um navegador web.
+4. Abra o arquivo `index.html` em um navegador web.
 
 Alternativamente, você pode usar uma extensão como "Live Server" no Visual Studio Code para rodar a aplicação em um servidor local.
 
